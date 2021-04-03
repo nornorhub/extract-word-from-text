@@ -37,7 +37,6 @@ for i in y:
 		z[j][k] = s.split()
 		k += 1
 	j += 1
-#print(z)
 
 for i in range(len(wordCodes)):
 	wordCodes[i] = wordCodes[i].split(', ')
